@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📡 Service status
+    url: https://status.daily-academic.com
+    about: Check here first if Daily Academic seems to be down.
+  - name: 📧 Support, account issues & general inquiries
+    url: mailto:support@daily-academic.com
+    about: For anything that isn't a bug report or feature request, email us.

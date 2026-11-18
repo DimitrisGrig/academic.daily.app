@@ -1,0 +1,67 @@
+@import "tailwindcss";
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+/* Custom Dropdown Menu Styles */
+.custom-dropdown-menu .ant-dropdown-menu {
+  background-color: #e5e7eb;
+  border-radius: 0.75rem;
+  padding: 0.5rem;
+}
+
+.custom-dropdown-menu .ant-dropdown-menu-item {
+  color: #1f2937;
+  border-radius: 0.5rem;
+  padding: 0.625rem 0rem;
+  margin: 0.25rem 0;
+}
+
+.custom-dropdown-menu .ant-dropdown-menu-item span {
+  font-size: 15px !important;
+}
+
+.custom-dropdown-menu .ant-dropdown-menu-item:hover {
+  background-color: #d1d5db;
+  color: #111827;
+}
+
+.custom-dropdown-menu .ant-dropdown-menu-item .anticon {
+  color: #4b5563;
+  font-size: 14px !important;
+}
+
+.custom-dropdown-menu .ant-dropdown-menu-item:hover .anticon {
+  color: #5393ec;
+}
+
+.custom-dropdown-menu .ant-dropdown-menu-item-divider {
+  background-color: #bbc0c7;
+  margin: 0.5rem;
+}
+
+/* Hide all Ant Design tooltips on mobile / touch devices */
+@media (max-width: 767px) {
+  .ant-tooltip {
+    display: none !important;
+  }
+}
+
+@media (pointer: coarse) {
+  .ant-tooltip {
+    display: none !important;
+  }
+}

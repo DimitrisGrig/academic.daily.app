@@ -1,0 +1,172 @@
+{
+  "Medical Specialties": [
+    "Cancer Biology",
+    "Cardiology",
+    "Endocrinology",
+    "Immunology",
+    "Internal Medicine",
+    "Nanomedicine",
+    "Neurology",
+    "Oncology",
+    "Pediatrics",
+    "Personalized Medicine",
+    "Precision Medicine",
+    "Regenerative Medicine",
+    "Surgery",
+    "Synthetic Biology",
+    "Systems Biology",
+    "Telemedicine"
+  ],
+  "Diseases & Conditions": [
+    "Alzheimer's Disease",
+    "Autoimmune Disease",
+    "Cardiovascular Disease",
+    "Genetic Disorder",
+    "Heart Disease",
+    "Infection",
+    "Infectious Disease",
+    "Metabolic Syndrome",
+    "Parkinson's Disease"
+  ],
+  "Cancer Types": [
+    "Breast Cancer",
+    "Cancer",
+    "Colorectal Cancer",
+    "Lung Cancer",
+    "Prostate Cancer"
+  ],
+  "Research Methods": [
+    "CRISPR",
+    "DNA Sequencing",
+    "Microscopy",
+    "PCR",
+    "RNA-seq",
+    "Western Blot"
+  ],
+  "Molecular Biology": [
+    "DNA",
+    "Gene Expression",
+    "Protein",
+    "Protein Synthesis",
+    "RNA"
+  ],
+  "Cell Biology": [
+    "Blood Cells",
+    "Cell Culture",
+    "Cell Death",
+    "Cell Division",
+    "Single-Cell Analysis",
+    "Stem Cells",
+    "T Cells"
+  ],
+  "Genetics & Genomics": [
+    "Chromosome",
+    "Genome",
+    "Genomics",
+    "Mutation"
+  ],
+  "Immunology": [
+    "Antibodies",
+    "Antigens",
+    "Immune Response",
+    "Immune System",
+    "Inflammation"
+  ],
+  "Neuroscience": [
+    "Brain",
+    "Neurons",
+    "Neuroscience"
+  ],
+  "Pharmacology": [
+    "Drug Discovery"
+  ],
+  "Anatomy": [
+    "Cardiovascular System",
+    "Heart",
+    "Heart Failure",
+    "Kidney",
+    "Liver",
+    "Lung",
+    "Nervous System",
+    "Organoids",
+    "Systematic Review",
+    "Tissue Engineering"
+  ],
+  "Pathways & Processes": [
+    "Metabolism"
+  ],
+  "Clinical & Translational": [
+    "Chemotherapy",
+    "Clinical Trial",
+    "Clinical Trials",
+    "Gene Therapy",
+    "Immunotherapy",
+    "Radiation Therapy",
+    "Randomized Controlled Trial"
+  ],
+  "Technology & AI": [
+    "Digital Health",
+    "Machine Learning",
+    "Pain Management"
+  ],
+  "Other": [
+    "ADHD",
+    "Aging",
+    "Animal Models",
+    "Antibiotics",
+    "Anxiety",
+    "Arthritis",
+    "Artificial Intelligence",
+    "Asthma",
+    "Biomarkers",
+    "Blood",
+    "Bone",
+    "COPD",
+    "COVID-19",
+    "CT Scan",
+    "Case Study",
+    "Cohort Study",
+    "Dementia",
+    "Depression",
+    "ELISA",
+    "Enzymes",
+    "Flow Cytometry",
+    "Gene",
+    "Gene Editing",
+    "HIV",
+    "Health Informatics",
+    "Hormones",
+    "Human Studies",
+    "Hypertension",
+    "Immunosuppressants",
+    "Influenza",
+    "Longevity",
+    "MRI",
+    "Malaria",
+    "Mental Health",
+    "Meta-Analysis",
+    "Metabolomics",
+    "Microbiome",
+    "Mouse Model",
+    "Multiple Sclerosis",
+    "Muscle",
+    "Obesity",
+    "Osteoporosis",
+    "PET Scan",
+    "Pancreas",
+    "Proteomics",
+    "Psychiatry",
+    "Rehabilitation",
+    "Schizophrenia",
+    "Signal Transduction",
+    "Sleep",
+    "Stroke",
+    "Tuberculosis",
+    "Type 1 Diabetes",
+    "Type 2 Diabetes",
+    "Ultrasound",
+    "Vaccine Development",
+    "Vaccines",
+    "Wearable Devices"
+  ]
+}

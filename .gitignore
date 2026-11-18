@@ -1,0 +1,15 @@
+*.pyc
+__pycache__/
+.env
+.vscode/
+.DS_Store
+node_modules/
+dist/
+build/
+.idea/
+*.log
+venv/
+linkedin/*
+# Environment files (keep the examples)
+.env.*
+!.env.example

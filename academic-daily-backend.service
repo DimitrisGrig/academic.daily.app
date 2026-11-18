@@ -1,0 +1,24 @@
+[Unit]
+Description=Daily Academic FastAPI Backend
+After=network.target
+
+[Service]
+Type=notify
+User=root
+Group=root
+WorkingDirectory=/root/academic.daily.app/backend
+Environment="PATH=/root/academic.daily.app/backend/venv/bin"
+
+# Start the backend using gunicorn
+ExecStart=/root/academic.daily.app/backend/venv/bin/gunicorn main:app -c gunicorn_config.py
+
+# Restart policy
+Restart=always
+RestartSec=10
+
+# Logging
+StandardOutput=append:/var/log/academic-daily-backend/output.log
+StandardError=append:/var/log/academic-daily-backend/error.log
+
+[Install]
+WantedBy=multi-user.target
