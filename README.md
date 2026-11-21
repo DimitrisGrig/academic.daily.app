@@ -320,17 +320,6 @@ If you use Daily Academic in your research, please cite our preprint:
 > **Daily-Academic: A Semantic Literature Discovery and Journal Tracking Platform for Biomedical Research.**
 > *bioRxiv* 2026.11.19.767813 (2026). doi: [10.64898/2026.11.19.767813](https://doi.org/10.64898/2026.11.19.767813)
 
-```bibtex
-@article{grigoriadis2026dailyacademic,
-  title   = {Daily-Academic: A Semantic Literature Discovery and Journal Tracking Platform for Biomedical Research},
-  author  = {Grigoriadis, Dimitris and Georgakopoulos-Soares, Ilias and Pavlopoulos, Georgios and Perdikopanis, Nikos},
-  journal = {bioRxiv},
-  year    = {2026},
-  doi     = {10.64898/2026.11.19.767813},
-  url     = {https://www.biorxiv.org/content/10.64898/2026.11.19.767813v1}
-}
-```
-
 ## 📄 License
 
 Released under the [MIT License](LICENSE).
