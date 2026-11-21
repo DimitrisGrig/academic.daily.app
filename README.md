@@ -18,6 +18,7 @@ to *your* research interests using AI-powered semantic search.
 [![Clerk](https://img.shields.io/badge/Auth-Clerk-6C47FF?logo=clerk&logoColor=white)](https://clerk.com/)
 
 [![Website](https://img.shields.io/badge/🌐_Website-daily--academic.com-7974e8)](https://www.daily-academic.com)
+[![bioRxiv](https://img.shields.io/badge/bioRxiv-10.64898%2F2026.11.19.767813-b31b1b)](https://doi.org/10.64898/2026.11.19.767813)
 [![Status](https://img.shields.io/badge/📡_Status-status.daily--academic.com-brightgreen)](https://status.daily-academic.com)
 [![Issues](https://img.shields.io/github/issues/DimitrisGrig/academic.daily.app)](https://github.com/DimitrisGrig/academic.daily.app/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#-contributing)
@@ -47,6 +48,7 @@ to *your* research interests using AI-powered semantic search.
 - [Support the project](#-support-the-project)
 - [Security](#-security)
 - [Contact](#-contact)
+- [Citation](#-citation)
 - [License](#-license)
 
 ---
@@ -309,6 +311,25 @@ Email **[support@daily-academic.com](mailto:support@daily-academic.com)** instea
 - 🚀 App: [app.daily-academic.com](https://app.daily-academic.com)
 - 💼 LinkedIn: [Daily Academic](https://www.linkedin.com/company/daily-academic)
 - 📧 Email: [support@daily-academic.com](mailto:support@daily-academic.com)
+
+## 📝 Citation
+
+If you use Daily Academic in your research, please cite our preprint:
+
+> Grigoriadis D, Georgakopoulos-Soares I, Pavlopoulos G, Perdikopanis N.
+> **Daily-Academic: A Semantic Literature Discovery and Journal Tracking Platform for Biomedical Research.**
+> *bioRxiv* 2026.11.19.767813 (2026). doi: [10.64898/2026.11.19.767813](https://doi.org/10.64898/2026.11.19.767813)
+
+```bibtex
+@article{grigoriadis2026dailyacademic,
+  title   = {Daily-Academic: A Semantic Literature Discovery and Journal Tracking Platform for Biomedical Research},
+  author  = {Grigoriadis, Dimitris and Georgakopoulos-Soares, Ilias and Pavlopoulos, Georgios and Perdikopanis, Nikos},
+  journal = {bioRxiv},
+  year    = {2026},
+  doi     = {10.64898/2026.11.19.767813},
+  url     = {https://www.biorxiv.org/content/10.64898/2026.11.19.767813v1}
+}
+```
 
 ## 📄 License
 
